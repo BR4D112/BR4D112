@@ -1,5 +1,7 @@
 ### Hi there 👋 Soy Diego Alejandro Rubiano Buitrago
-👦
+Sytems and Computeering student in Uptc👦
+
+Trying to use more gh and make more projects
 <!--
 **BR4D112/BR4D112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
